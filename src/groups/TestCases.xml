@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Software Testing">
+	<test name="TestNG Test">
+		<classes>
+			<class name="testNG.FirstTestNgTestCase1" />
+			<class name="testNG.ExpediaCheckBoxTestCase7" />
+			<class name="testNG.FaceBookLoginTestCase6" />
+
+		</classes>
+	</test>
+
+</suite>
